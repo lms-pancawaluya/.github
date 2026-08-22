@@ -112,15 +112,19 @@ Frontend berkomunikasi dengan backend melalui REST API dengan autentikasi berbas
 
 ## 🔐 User Roles
 
-LMS Pancawaluya memiliki dua role utama:
+LMS Pancawaluya memiliki tiga role utama:
 
 **Guru**
 
-Mengikuti pembelajaran, mengerjakan mini-quiz dan evaluasi, serta memantau progres pembelajaran.
+Mengikuti pembelajaran, mengerjakan mini-quiz dan evaluasi.
+
+**Pengajar**
+
+memantau progres pembelajaran guru.
 
 **Admin**
 
-Mengelola keseluruhan konten pembelajaran, akun guru, evaluasi, checklist, dan monitoring progres.
+Mengelola keseluruhan konten pembelajaran, akun guru/pengajar, evaluasi, checklist, dan monitoring progres.
 
 ---
 
